@@ -1,7 +1,7 @@
 from PIL import Image
 
 # Characters ordered from darkest to lightest brightness
-ASCII_CHARS = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", "."]
+ASCII_CHARS = [";", ":", ",", "."]
 
 
 def resize_image(image, new_width=70):
