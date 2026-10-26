@@ -548,14 +548,7 @@ for count, file in enumerate(os.listdir()):
         oldName=underscoreRemoval(oldName)
     name=oldName
     
-    print("What is the institution?\nPress:\n1 for Reimei\n2 for Home")
-        inst=input()
-        if(inst==1):
-            name=reimei(name)
-            name+"
-        if(inst==2):
-            name=name+"(Home"
-    name=name+
+    
     newNameWithoutExtension = name
     newNameWithExtension = f'{newNameWithoutExtension}{ext}'
     print(newNameWithExtension)

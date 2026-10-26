@@ -1,7 +1,7 @@
 import datetime
-def underscoreRemoval(fileName):
-    fileName=fileName[0:len(fileName)-1]
-    return fileName
+    
+def completeNameChange():
+    return
     
 def invalidEntriesCheck(givenEntry, validEntries):
     while (givenEntry not in validEntries):
@@ -85,16 +85,16 @@ def pastTime():
 
 def documentDate(givenDate):
     print(givenDate+"<---Does this date in file name correspond to the actual date of the file open in front of you?\nPress:\n[y] for Yes\n[n] for No")
-        entry=invalidEntriesCheck(input(), "yn")
+    entry=invalidEntriesCheck(input(), "yn")
+    if(entry=="n"):
+        print("Is the document from today?\nPress:\n[y] for Yes\n[n] for No")
+        checkIfToday=invalidEntriesCheck(input(), "yn")
+        if(checkIfToday=="y"):
+            givenDate=datetime.datetime.now()
+            givenDate=givenDate.date()
+            givenDate=str(givenDate).replace("-", "")
         if(entry=="n"):
-           print("Is the document from today?\nPress:\n[y] for Yes\n[n] for No")
-            checkIfToday=invalidEntriesCheck(input(), "yn")
-            if(checkIfToday=="y"):
-                givenDate=datetime.datetime.now()
-                givenDate=givenDate.date()
-                givenDate=str(givenDate).replace("-", "")
-            if(entry=="n"):
-                givenDate=pastDate()
+            givenDate=pastDate()
     return givenDate
 
 def documentTime(givenTime):
@@ -122,22 +122,26 @@ def documentDateTime():
             entry=invalidEntriesCheck(input(), "yn")
             if(entry=="y"):
                 time=documentTime(secondPos)
-            if(entry=="n")
+            if(entry=="n"):
                 information=secondPos
-         if(fn.count("_")>=2):
+        if(fn.count("_")>=2):
             information=fn.split("_")[2]
-            
-            
-            
-            display=display+"\n"+time
-       
-            display=display+"\n"+information
-    else:
+    print("Date:"+date+"\n"+"Time"+time+"\n"+"Details"+information)
+    
+def institutionCheck():
+    print("What is the institution?\nPress:\n[a] for Reimei\n[b] for Home")
+    checkIfToday=invalidEntriesCheck(input(), "ab")
+    inst=input()
+    if(inst=="a"):
+        name=reimei(name)
+        name+"
+    if(inst=="b"):
+        name=name+"(Home"
+    name=name+return answer
+"""    else:
         print("<<<<((((Maybe your file needs a change of name?))))>>>>\nPress Enter to Continue doing so.")
-        
-        
-        
-        
+    
+       
         
         
         
@@ -148,4 +152,6 @@ def documentDateTime():
     if(entry=="n"):
         
         display=date
-print(display)
+print(display)""" 
+
+documentDateTime()
