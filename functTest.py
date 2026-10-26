@@ -129,7 +129,7 @@ def documentDateTime():
     print("Date:"+date+"\n"+"Time"+time+"\n"+"Details"+information)
     
 def institutionCheck():
-    print("What is the institution?\nPress:\n[a] for Reimei\n[b] for Home")
+    print("Which institution does this file belong to?\nPress:\n[a] for Reimei\n[b] for Home")
     checkIfToday=invalidEntriesCheck(input(), "ab")
     inst=input()
     if(inst=="a"):
@@ -154,4 +154,7 @@ def institutionCheck():
         display=date
 print(display)""" 
 
+
+"""
+"""
 documentDateTime()

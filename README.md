@@ -1,1 +1,61 @@
+For every receipt, there should be 3 parts. Date (and time), Information, and file extension. The latest among the two should be concatenated with the institution name in bracket, followed by an underscore.
+Allowed date and institution name patterns:
+20261201_102413(Reimei(Main))_
+20261201(Reimei(Dorm))_
+
+Separated by "_"
+
+Allowed Content patterns:
+Copies:
+ID_CopyType(Copy Subtype())_LessonNo[marks]
+JP260102_Exam(Short(Vocabulary&Sentence))_Lesson002[0of20]
+
+
+Student Payment Slip:
+RILIJP202600012
+
+AM slip:
+RILIAM260025
+
+Bkash/Bank/Cheque Transaction:
+DBG66QU6RG(Sent)
+
+Store transaction:
+
+Student(JP260102)---Reimei(Cash(Taka))_DBG66QU6RG(Sent)[0of20000] ---->Inferred information: Debit for JP260102, Credit for Reimei
+Student(JP260102)---Reimei(Cash(Taka))_RILIAM260025[20000of20000]
+Non Affiliated Party(HabibHardwareStore)---Reimei(Cash(Taka))_RILIAM260025[20000of20000]
+
+"Who paid?"("What was his/her sID?")---"Who was paid?"("What medium was used?"("What was the currency?"))_RILIAM260025[20000of20000]
++payer+"---"+payee+"("+paymentMethod+"("+currency"))"+serial()/storeName   ---Made an error after currency here by putting three )s.
+JapanSteelHouse
+20260125_HabibHardwareStore
+20260125_Ms.NewSamimaTraders
+20260125_RashidElectricLightHouse-2
+20260128_JSLighting-2
+20260202_BismillahPaintAndHardware
+20260202_MsSowravPaintAndHardware
+20260202_MuntasirElectricHardwareAndPaint
+20260204_FarihaSanitary
+20260205_MsMahbubEnterprise
+20260207_AlArafatHardwareStore
+20260207_DulalFurnitureHouse
+20260207_NurIslamRubberAndPlastic
+20260210_MuntasirElectricHardwareAndPaint
+20260214_BisshashElectricPaintAndHardware
+20260214_InformalReceipt(1)
+20260214_InformalReceipt(2)
+20260215_BhaiBhaiEngineeringWorks
+
+
+
+Also, we need a manual single transaction recording system.
+
+
+Purpose	Shop Name					Unit Price/Amount	Set Quantity	Bought Quantity	Number of Units	Conversion Index	Unadjusted Price	Adjustments				Total Adjusted Price	Generic Name	Brand Name	Sub-Brand Name	Medium	From (Origin/Beginning Date)	To (Destination/Ending Date)	Origin Coordinates	Destination Coordinates	Distance	Scientific Name	Size	Flavour	Color	Hex Color Code (Apparent)	Model	Variant
+												Addition		Reduction																		
+		For	Method	Income/Expenditure	Previously Set Information?	Set Quantity	Length	Number of Units	Unit Price/Amount		Balance	Reason	Amount	Reason	Amount																	
+																																
+		Home	Family(Cash(Taka))	Expenditure		450					450					450	Fare	Uber		Private Car	Priyanka city	Aichi Hospital										
+
 # reimei
