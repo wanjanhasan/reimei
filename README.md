@@ -1,25 +1,165 @@
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢀⣾⡟⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠑⠺⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠈⠉⠛⠻⣿⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⢰⠃⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⢀⣤⠶⣿⢿⣿⡶⣄⠀⠙⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⢠⣿⣥⠴⠟⠀⠈⢛⣙⢷⡀⠈⣏⢙⣿⣿⣇⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⣾⠙⣟⠙⠷⣶⡄⣟⡉⠙⡇⠀⢹⣾⣿⡿⡏⢤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⢸⣆⢹⡆⢀⡞⠁⠈⣹⣴⠇⠀⣼⣿⣿⠁⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠻⣦⣿⡟⠁⢀⣠⡽⠋⠀⣰⣿⣿⡗⠀⡀⠨⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠈⠙⠛⠉⠁⠀⣠⣼⣿⣿⠟⠁⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⢿⣿⠟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢯⠙⢿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣀⠙⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⡀⠀⠀⣠⠃⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠸⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⢀⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⠿⠾⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠷⠶⠶⠶⠿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢸⣿⡏⣽⣿⢠⣶⣶⣶⣄⠀⢰⣿⡇⠀⣶⣶⡶⣦⣠⣴⣶⣶⣦⠀⠠⣿⡇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢸⣿⡿⣿⣧⠸⣿⣿⣿⡏⠀⣤⣿⣧⡄⣿⢿⡇⣿⠿⢿⣿⣿⡟⠀⣤⣿⣧⣤⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢀⣾⡟⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠑⠺⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠈⠉⠛⠻⣿⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⢰⠃⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⢀⣤⠶⣿⢿⣿⡶⣄⠀⠙⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⢠⣿⣥⠴⠟⠀⠈⢛⣙⢷⡀⠈⣏⢙⣿⣿⣇⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⣾⠙⣟⠙⠷⣶⡄⣟⡉⠙⡇⠀⢹⣾⣿⡿⡏⢤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⢸⣆⢹⡆⢀⡞⠁⠈⣹⣴⠇⠀⣼⣿⣿⠁⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠻⣦⣿⡟⠁⢀⣠⡽⠋⠀⣰⣿⣿⡗⠀⡀⠨⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠈⠙⠛⠉⠁⠀⣠⣼⣿⣿⠟⠁⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⢿⣿⠟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢯⠙⢿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣀⠙⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⡀⠀⠀⣠⠃⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⠸⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⢀⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⠿⠾⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠷⠶⠶⠶⠿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⢀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⢸⣿⡏⣽⣿⢠⣶⣶⣶⣄⠀⢰⣿⡇⠀⣶⣶⡶⣦⣠⣴⣶⣶⣦⠀⠠⣿⡇⠀⠀⠀⠀⠀⠀⠀
+														⠀⠀⠀⠀⠀⢸⣿⡿⣿⣧⠸⣿⣿⣿⡏⠀⣤⣿⣧⡄⣿⢿⡇⣿⠿⢿⣿⣿⡟⠀⣤⣿⣧⣤⠀⠀⠀⠀⠀
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-																							   ⠀⣀⣀⣀⣀⣀⣀⡀⢰⠆⠂⠄⡀⠀⠀⠀⠀⠀⠀
+Program design:
+I want one stop system for my family, as well as every of our future businesses.
+Possibilities:
+1. Institution 1 (Home)
+2. Institution 2 (Reimei)
+3. Institution 3 (Eg. ReiKai)
+4. Institution 4 (Eg. Jupiter)
+5. Institution 5 (Eg. ReiGen)
+6. Institution 6 (Eg. ReiLibros)
+7. Institution 7 (Eg. ReiLiv)
+8. Institution 8 (Eg. ReiParseMe)
+9. Institution 9 (Eg. Rei Systems)
+
+Each entry in an institution is any from:
+1. Transaction
+2. Copy (Only in education)
+3. Certificate (Only in education)
+4. Memory
+5. Formal Document
+
+Each transaction is either:
+1. Itemwise transaction
+2. Receipt (Or group) transaction
+
+Each receipt transaction has:
+1. Single transaction
+2. Multiple itemwise transactions
+
+Each single transaction with receipt can have a serial number of:
+1. Administrative Manager
+2. Student Receipt
+
+So, eventually, the Receipts also lead to single transaction, but after taking the long road.
+
+Types of single transactions:
+
+
+Each copy is any from:
+1. Homework
+2. Classwork
+3. Exam
+
+There are a few types of exams:
+1. Short
+   1.1. Hiragana
+   1.2. Number
+   1.3. Katakana
+   1.4. Vocabulary&Sentence
+		1.4.1. Lesson 1
+		1.4.2. Lesson 2
+		1.4.3. Lesson 3
+		1.4.4. Lesson 4
+		1.4.5. Lesson 5
+		1.4.6. Lesson 6
+		1.4.7. Lesson 7
+		1.4.8. Lesson 8
+		1.4.9. Lesson 9
+		1.4.10. Lesson 10
+		1.4.11. Lesson 11
+		1.4.12. Lesson 12
+		1.4.13. Lesson 13
+		1.4.14. Lesson 14
+		1.4.15. Lesson 15
+		1.4.16. Lesson 16
+		1.4.17. Lesson 17
+		1.4.18. Lesson 18
+		1.4.19. Lesson 19
+		1.4.20. Lesson 20
+		1.4.21. Lesson 21
+		1.4.22. Lesson 22
+		1.4.23. Lesson 23
+		1.4.24. Lesson 24
+		1.4.25. Lesson 25
+		1.4.26. Lesson 26
+		1.4.27. Lesson 27
+		1.4.28. Lesson 28
+		1.4.29. Lesson 29
+		1.4.30. Lesson 30
+		1.4.31. Lesson 31
+		1.4.32. Lesson 32
+		1.4.33. Lesson 33
+		1.4.34. Lesson 34
+		1.4.35. Lesson 35
+		1.4.36. Lesson 36
+		1.4.37. Lesson 37
+		1.4.38. Lesson 38
+		1.4.39. Lesson 39
+		1.4.40. Lesson 40
+		1.4.41. Lesson 41
+		1.4.42. Lesson 42
+		1.4.43. Lesson 43
+		1.4.44. Lesson 44
+		1.4.45. Lesson 45
+		1.4.46. Lesson 46
+		1.4.47. Lesson 47
+		1.4.48. Lesson 48
+		1.4.49. Lesson 49
+		1.4.50. Lesson 50
+   1.5. Sentence
+   1.6. Kanji
+		1.6.1. Kanji 1-20
+		1.6.2. Kanji 1-40
+		1.6.3. Kanji 1-60
+		1.6.4. Kanji 1-80
+		1.6.5. Kanji 1-107
+		1.6.6. Kanji 1-127 (Lesson 1)
+		1.6.7. Kanji 1-147 (Lesson 2)
+		1.6.8. Kanji 1-167 (Lesson 3)
+		1.6.9. Kanji 1-187 (Lesson 4)
+		1.6.10. Kanji 1-207 (Lesson 5)
+		1.6.11. Kanji 1-207(Review)
+		1.6.12. Kanji 1-227 (Lesson 6)
+		1.6.13. Kanji 1-247 (Lesson 7)
+		1.6.14. Kanji 1-267 (Lesson 8)
+		1.6.15. Kanji 1-287 (Lesson 9)
+		1.6.16. Kanji 1-307 (Lesson 10)
+		1.6.17. Kanji 1-307(Review)
+		1.6.18. Kanji 1-327 (Lesson 11)
+		1.6.19. Kanji 1-347 (Lesson 12)
+		1.6.20. Kanji 1-367 (Lesson 13)
+		1.6.21. Kanji 1-387 (Lesson 14)
+		1.6.22. Kanji 1-407 (Lesson 15)
+		1.6.23. Kanji 1-407(Review)
+2. Grammar
+3. Oral
+4. Final
+   4.1. Kanji&Vocabulary
+   4.2. Grammar
+   4.3. Oral
+   4.4. Reexam
+
+
+1. Vocabulary and Sentence
+2. Sentence
+3. Kanji
+4. Final
+
+
+Each of the Receipt transaction
+All the file names that can be generated
+																		   ⣀⣀⣀⣀⣀⣀⡀⢰⠆⠂⠄⡀⠀⠀⠀⠀⠀⠀
 																⠁⠀⠀⠀⠀⠀⠈⢀⢠⠴⠒⢿⣉⣦⣱⡇⣧⢼⣯⣿⠲⣥⣀⡀⠁⠠⠀⠀⠀⠀
 																⠀⠀⠀⠀⠀⠀⡀⢎⠰⣈⣵⣾⣿⣿⣿⣿⣿⣿⣿⣷⣿⣷⣯⡴⢆⡤⠀⡄⠀⠀
 																⠀⠀⠀⠀⡀⢆⠱⣨⣶⠿⣿⠟⠋⣿⣿⣿⣿⣿⣿⣯⠛⠿⣿⣿⣷⣒⣩⠄⠀⠀
@@ -34,6 +174,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 For every receipt, there should be 3 parts. Date (and time), Information, and file extension. The latest among the two should be concatenated with the institution name in bracket, followed by an underscore.
+
+
 ------------------------------------------------------Part 1----------------------------------------------------------------------
 Allowed date and institution name patterns:
 20261201(102413(Reimei(Main)))
