@@ -32,6 +32,8 @@ Possibilities:
 8. Institution 8 (Eg. ReiParseMe)
 9. Institution 9 (Eg. Rei Systems)
 
+
+Student/Customer entry
 Each entry in an institution is any from:
 1. Transaction
 2. Copy (Only in education)
@@ -58,103 +60,239 @@ Types of single transactions:
 
 Each copy is any from:
 1. Homework
+	1.1. Hiragana
+	1.2. 50 Numbers (10 using 万, 10 using 千, 10 using 百, 10 using 十 (Without 十, 一 to 十)
+	1.3.　Lesson 1 Classwork
+	1.4.　Jikoshoukai using Katakana
+	1.5. Grammar Note
 2. Classwork
+	2.1. Hiragana
+	2.2. 
 3. Exam
+	3.1. Short
+		3.1.1. Hiragana
+		3.1.2. Number
+		3.1.3. Katakana
+		3.1.4. Vocabulary&Sentence
+			3.1.4.1. Lesson 1
+			3.1.4.2. Lesson 2
+			3.1.4.3. Lesson 3
+			3.1.4.4. Lesson 4
+			3.1.4.5. Lesson 5
+			3.1.4.6. Lesson 6
+			3.1.4.7. Lesson 7
+			3.1.4.8. Lesson 8
+			3.1.4.9. Lesson 9
+			3.1.4.10. Lesson 10
+			3.1.4.11. Lesson 11
+			3.1.4.12. Lesson 12
+			3.1.4.13. Lesson 13
+			3.1.4.14. Lesson 14
+			3.1.4.15. Lesson 15
+			3.1.4.16. Lesson 16
+			3.1.4.17. Lesson 17
+			3.1.4.18. Lesson 18
+			3.1.4.19. Lesson 19
+			3.1.4.20. Lesson 20
+			3.1.4.21. Lesson 21
+			3.1.4.22. Lesson 22
+			3.1.4.23. Lesson 23
+			3.1.4.24. Lesson 24
+			3.1.4.25. Lesson 25
+			3.1.4.26. Lesson 26
+			3.1.4.27. Lesson 27
+			3.1.4.28. Lesson 28
+			3.1.4.29. Lesson 29
+			3.1.4.30. Lesson 30
+			3.1.4.31. Lesson 31
+			3.1.4.32. Lesson 32
+			3.1.4.33. Lesson 33
+			3.1.4.34. Lesson 34
+			3.1.4.35. Lesson 35
+			3.1.4.36. Lesson 36
+			3.1.4.37. Lesson 37
+			3.1.4.38. Lesson 38
+			3.1.4.39. Lesson 39
+			3.1.4.40. Lesson 40
+			3.1.4.41. Lesson 41
+			3.1.4.42. Lesson 42
+			3.1.4.43. Lesson 43
+			3.1.4.44. Lesson 44
+			3.1.4.45. Lesson 45
+			3.1.4.46. Lesson 46
+			3.1.4.47. Lesson 47
+			3.1.4.48. Lesson 48
+			3.1.4.49. Lesson 49
+			3.1.4.50. Lesson 50
+		3.1.5. Sentence
+			3.1.5.1. Lesson 1
+			3.1.5.2. Lesson 2
+			3.1.5.3. Lesson 3
+			3.1.5.4. Lesson 4
+			3.1.5.5. Lesson 5
+			3.1.5.6. Lesson 6
+			3.1.5.7. Lesson 7
+			3.1.5.8. Lesson 8
+			3.1.5.9. Lesson 9
+			3.1.5.10. Lesson 10
+			3.1.5.11. Lesson 11
+			3.1.5.12. Lesson 12
+			3.1.5.13. Lesson 13
+			3.1.5.14. Lesson 14
+			3.1.5.15. Lesson 15
+			3.1.5.16. Lesson 16
+			3.1.5.17. Lesson 17
+			3.1.5.18. Lesson 18
+			3.1.5.19. Lesson 19
+			3.1.5.20. Lesson 20
+			3.1.5.21. Lesson 21
+			3.1.5.22. Lesson 22
+			3.1.5.23. Lesson 23
+			3.1.5.24. Lesson 24
+			3.1.5.25. Lesson 25
+			3.1.5.26. Lesson 26
+			3.1.5.27. Lesson 27
+			3.1.5.28. Lesson 28
+			3.1.5.29. Lesson 29
+			3.1.5.30. Lesson 30
+			3.1.5.31. Lesson 31
+			3.1.5.32. Lesson 32
+			3.1.5.33. Lesson 33
+			3.1.5.34. Lesson 34
+			3.1.5.35. Lesson 35
+			3.1.5.36. Lesson 36
+			3.1.5.37. Lesson 37
+			3.1.5.38. Lesson 38
+			3.1.5.39. Lesson 39
+			3.1.5.40. Lesson 40
+			3.1.5.41. Lesson 41
+			3.1.5.42. Lesson 42
+			3.1.5.43. Lesson 43
+			3.1.5.44. Lesson 44
+			3.1.5.45. Lesson 45
+			3.1.5.46. Lesson 46
+			3.1.5.47. Lesson 47
+			3.1.5.48. Lesson 48
+			3.1.5.49. Lesson 49
+			3.1.5.50. Lesson 50
+		3.1.6. Kanji
+			3.1.6.1. Kanji 1-20
+			3.1.6.2. Kanji 1-40
+			3.1.6.3. Kanji 1-60
+			3.1.6.4. Kanji 1-80
+			3.1.6.5. Kanji 1-107
+			3.1.6.6. Kanji 1-127 (Lesson 1)
+			3.1.6.7. Kanji 1-147 (Lesson 2)
+			3.1.6.8. Kanji 1-167 (Lesson 3)
+			3.1.6.9. Kanji 1-187 (Lesson 4)
+			3.1.6.10. Kanji 1-207 (Lesson 5)
+			3.1.6.11. Kanji 1-207(Review)
+			3.1.6.12. Kanji 1-227 (Lesson 6)
+			3.1.6.13. Kanji 1-247 (Lesson 7)
+			3.1.6.14. Kanji 1-267 (Lesson 8)
+			3.1.6.15. Kanji 1-287 (Lesson 9)
+			3.1.6.16. Kanji 1-307 (Lesson 10)
+			3.1.6.17. Kanji 1-307(Review)
+			3.1.6.18. Kanji 1-327 (Lesson 11)
+			3.1.6.19. Kanji 1-347 (Lesson 12)
+			3.1.6.20. Kanji 1-367 (Lesson 13)
+			3.1.6.21. Kanji 1-387 (Lesson 14)
+			3.1.6.22. Kanji 1-407 (Lesson 15)
+			3.1.6.23. Kanji 1-407(Review)
+	3.2. Grammar
+		3.2.1. After Lesson 3
+		3.2.2. After Lesson 7
+		3.2.3. After Lesson 13
+		3.2.4. After Lesson 16
+		3.2.5. After Lesson 19
+		3.2.6. After Lesson 23
+		3.2.7. After Lesson 30
+		3.2.8. After Lesson 35
+		3.2.9. After Lesson 40
+		3.2.10. After Lesson 45
+	3.3. Oral
+		3.3.1. After Lesson 7
+		3.3.2. After Lesson 13
+		3.3.3. After Lesson 19
+		3.3.4. After Lesson 35
+		3.3.5. After Lesson 40
+		3.3.6. After Lesson 45
+	3.4. Final
+		3.4.1. Kanji&Vocabulary
+		3.4.2. Grammar
+		3.4.3. Oral
+		3.4.4. Reexam
+4. Extra work
+	4.1. Effective Note-taking
+	4.2. Poster making
+	4.3. Speech
+	4.4. Drama
+	
 
-There are a few types of exams:
-1. Short
-   1.1. Hiragana
-   1.2. Number
-   1.3. Katakana
-   1.4. Vocabulary&Sentence
-		1.4.1. Lesson 1
-		1.4.2. Lesson 2
-		1.4.3. Lesson 3
-		1.4.4. Lesson 4
-		1.4.5. Lesson 5
-		1.4.6. Lesson 6
-		1.4.7. Lesson 7
-		1.4.8. Lesson 8
-		1.4.9. Lesson 9
-		1.4.10. Lesson 10
-		1.4.11. Lesson 11
-		1.4.12. Lesson 12
-		1.4.13. Lesson 13
-		1.4.14. Lesson 14
-		1.4.15. Lesson 15
-		1.4.16. Lesson 16
-		1.4.17. Lesson 17
-		1.4.18. Lesson 18
-		1.4.19. Lesson 19
-		1.4.20. Lesson 20
-		1.4.21. Lesson 21
-		1.4.22. Lesson 22
-		1.4.23. Lesson 23
-		1.4.24. Lesson 24
-		1.4.25. Lesson 25
-		1.4.26. Lesson 26
-		1.4.27. Lesson 27
-		1.4.28. Lesson 28
-		1.4.29. Lesson 29
-		1.4.30. Lesson 30
-		1.4.31. Lesson 31
-		1.4.32. Lesson 32
-		1.4.33. Lesson 33
-		1.4.34. Lesson 34
-		1.4.35. Lesson 35
-		1.4.36. Lesson 36
-		1.4.37. Lesson 37
-		1.4.38. Lesson 38
-		1.4.39. Lesson 39
-		1.4.40. Lesson 40
-		1.4.41. Lesson 41
-		1.4.42. Lesson 42
-		1.4.43. Lesson 43
-		1.4.44. Lesson 44
-		1.4.45. Lesson 45
-		1.4.46. Lesson 46
-		1.4.47. Lesson 47
-		1.4.48. Lesson 48
-		1.4.49. Lesson 49
-		1.4.50. Lesson 50
-   1.5. Sentence
-   1.6. Kanji
-		1.6.1. Kanji 1-20
-		1.6.2. Kanji 1-40
-		1.6.3. Kanji 1-60
-		1.6.4. Kanji 1-80
-		1.6.5. Kanji 1-107
-		1.6.6. Kanji 1-127 (Lesson 1)
-		1.6.7. Kanji 1-147 (Lesson 2)
-		1.6.8. Kanji 1-167 (Lesson 3)
-		1.6.9. Kanji 1-187 (Lesson 4)
-		1.6.10. Kanji 1-207 (Lesson 5)
-		1.6.11. Kanji 1-207(Review)
-		1.6.12. Kanji 1-227 (Lesson 6)
-		1.6.13. Kanji 1-247 (Lesson 7)
-		1.6.14. Kanji 1-267 (Lesson 8)
-		1.6.15. Kanji 1-287 (Lesson 9)
-		1.6.16. Kanji 1-307 (Lesson 10)
-		1.6.17. Kanji 1-307(Review)
-		1.6.18. Kanji 1-327 (Lesson 11)
-		1.6.19. Kanji 1-347 (Lesson 12)
-		1.6.20. Kanji 1-367 (Lesson 13)
-		1.6.21. Kanji 1-387 (Lesson 14)
-		1.6.22. Kanji 1-407 (Lesson 15)
-		1.6.23. Kanji 1-407(Review)
-2. Grammar
-3. Oral
-4. Final
-   4.1. Kanji&Vocabulary
-   4.2. Grammar
-   4.3. Oral
-   4.4. Reexam
+Formal Document
+1. Applicant
+	1.1. Passport
+	1.2. Academic Certificate
+		1.2.1 SSC
+		1.2.2 HSC
+		1.2.3 Bachelors
+		1.2.4 Masters
+	1.3. Academic Transcript
+		1.3.1 SSC
+		1.3.2 HSC
+		1.3.3 Bachelors
+		1.3.4 Masters
+	1.4. Japanese Language School Certificate (Over 150 hours)
+		1.4.1. N5 Level
+		1.4.2. N4 Level
+		1.4.3. N3 Level
+		1.4.4. N2 Level
+		1.4.5. N5 Level
+		1.4.6. N1 Level
+	1.5. Japanese Proficiency
+		1.5.1. JLPT
+			1.5.1.1. N5 Level
+			1.5.1.2. N4 Level
+			1.5.1.3. N3 Level
+			1.5.1.4. N2 Level
+			1.5.1.5. N1 Level
+		1.5.2. NAT
+			1.5.2.1. 5Q Level
+			1.5.2.2. 4Q Level
+			1.5.2.3. 3Q Level
+			1.5.2.4. 2Q Level
+			1.5.2.5. 1Q Level
+		1.5.3. JFT
+			1.5.3.1. A1 Level
+			1.5.3.2. A2 Level
+			1.5.3.3. B1 Level
+			1.5.3.4. B2 Level
+			1.5.3.5. C1 Level
+			1.5.3.6. C2 Level
+		1.5.4. JPT
+			1.5.4.1. Score>=315<375
+			1.5.4.2. Score>=375<430
+			1.5.4.3. Score>=430<525
+			1.5.4.4. Score>=525<660
+			1.5.4.5. Score>=660<=990
+	1.6. Fassport size photo (3x4 cm)
+	1.7. Family Certificate (Prepared at Reimei)
 
-
-1. Vocabulary and Sentence
-2. Sentence
-3. Kanji
-4. Final
+2. Sponsor
+	2.1. Identification document
+		2.1.1. Passport
+		2.1.2. NID #Should be or
+	2.2. Proof of income
+		2.2.1. Job Certificate
+		2.2.2. Trade License (to show business)
+	2.3. Income Certificate (Prepared at Reimei)
+	2.4. Income tax certificate
+		2.4.1. Year 1
+		2.4.2. Year 2
+		2.4.3. Year 3
+	2.5. Bank Statement
+	2.6. Bank Solvency (>20,00,000 taka)
+Certificate
 
 
 Each of the Receipt transaction
