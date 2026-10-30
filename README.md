@@ -64,10 +64,112 @@ Each copy is any from:
 	1.2. 50 Numbers (10 using 万, 10 using 千, 10 using 百, 10 using 十 (Without 十, 一 to 十)
 	1.3.　Lesson 1 Classwork
 	1.4.　Jikoshoukai using Katakana
-	1.5. Grammar Note
+	1.5. Lesson based Grammar Note
+		1.5.1. Minna no Nihongo
+			1.5.1.1 Lesson 1
+			1.5.1.2. Lesson 2
+			1.5.1.3. Lesson 3
+			1.5.1.4. Lesson 4
+			1.5.1.5. Lesson 5
+			1.5.1.6. Lesson 6
+			1.5.1.7. Lesson 7
+			1.5.1.8. Lesson 8
+			1.5.1.9. Lesson 9
+			1.5.1.10. Lesson 10
+			1.5.1.11. Lesson 11
+			1.5.1.12. Lesson 12
+			1.5.1.13. Lesson 13
+			1.5.1.14. Lesson 14
+			1.5.1.15. Lesson 15
+			1.5.1.16. Lesson 16
+			1.5.1.17. Lesson 17
+			1.5.1.18. Lesson 18
+			1.5.1.19. Lesson 19
+			1.5.1.20. Lesson 20
+			1.5.1.21. Lesson 21
+			1.5.1.22. Lesson 22
+			1.5.1.23. Lesson 23
+			1.5.1.24. Lesson 24
+			1.5.1.25. Lesson 25
+			1.5.1.26. Lesson 26
+			1.5.1.27. Lesson 27
+			1.5.1.28. Lesson 28
+			1.5.1.29. Lesson 29
+			1.5.1.30. Lesson 30
+			1.5.1.31. Lesson 31
+			1.5.1.32. Lesson 32
+			1.5.1.33. Lesson 33
+			1.5.1.34. Lesson 34
+			1.5.1.35. Lesson 35
+			1.5.1.36. Lesson 36
+			1.5.1.37. Lesson 37
+			1.5.1.38. Lesson 38
+			1.5.1.39. Lesson 39
+			1.5.1.40. Lesson 40
+			1.5.1.41. Lesson 41
+			1.5.1.42. Lesson 42
+			1.5.1.43. Lesson 43
+			1.5.1.44. Lesson 44
+			1.5.1.45. Lesson 45
+			1.5.1.46. Lesson 46
+			1.5.1.47. Lesson 47
+			1.5.1.48. Lesson 48
+			1.5.1.49. Lesson 49
+			1.5.1.50. Lesson 50
 2. Classwork
 	2.1. Hiragana
-	2.2. 
+	2.2. Numbers
+	2.3. Lesson based
+		2.3.1. Lesson 1
+		2.3.2. Lesson 2
+		2.3.3. Lesson 3
+		2.3.4. Lesson 4
+		2.3.5. Lesson 5
+		2.3.6. Lesson 6
+		2.3.7. Lesson 7
+		2.3.8. Lesson 8
+		2.3.9. Lesson 9
+		2.3.10. Lesson 10
+		2.3.11. Lesson 11
+		2.3.12. Lesson 12
+		2.3.13. Lesson 13
+		2.3.14. Lesson 14
+		2.3.15. Lesson 15
+		2.3.16. Lesson 16
+		2.3.17. Lesson 17
+		2.3.18. Lesson 18
+		2.3.19. Lesson 19
+		2.3.20. Lesson 20
+		2.3.21. Lesson 21
+		2.3.22. Lesson 22
+		2.3.23. Lesson 23
+		2.3.24. Lesson 24
+		2.3.25. Lesson 25
+		2.3.26. Lesson 26
+		2.3.27. Lesson 27
+		2.3.28. Lesson 28
+		2.3.29. Lesson 29
+		2.3.30. Lesson 30
+		2.3.31. Lesson 31
+		2.3.32. Lesson 32
+		2.3.33. Lesson 33
+		2.3.34. Lesson 34
+		2.3.35. Lesson 35
+		2.3.36. Lesson 36
+		2.3.37. Lesson 37
+		2.3.38. Lesson 38
+		2.3.39. Lesson 39
+		2.3.40. Lesson 40
+		2.3.40. Lesson 41
+		2.3.42. Lesson 42
+		2.3.43. Lesson 43
+		2.3.44. Lesson 44
+		2.3.45. Lesson 45
+		2.3.46. Lesson 46
+		2.3.47. Lesson 47
+		2.3.48. Lesson 48
+		2.3.49. Lesson 49
+		2.3.50. Lesson 50
 3. Exam
 	3.1. Short
 		3.1.1. Hiragana
@@ -176,47 +278,52 @@ Each copy is any from:
 			3.1.5.49. Lesson 49
 			3.1.5.50. Lesson 50
 		3.1.6. Kanji
-			3.1.6.1. Kanji 1-20
-			3.1.6.2. Kanji 1-40
-			3.1.6.3. Kanji 1-60
-			3.1.6.4. Kanji 1-80
-			3.1.6.5. Kanji 1-107
-			3.1.6.6. Kanji 1-127 (Lesson 1)
-			3.1.6.7. Kanji 1-147 (Lesson 2)
-			3.1.6.8. Kanji 1-167 (Lesson 3)
-			3.1.6.9. Kanji 1-187 (Lesson 4)
-			3.1.6.10. Kanji 1-207 (Lesson 5)
-			3.1.6.11. Kanji 1-207(Review)
-			3.1.6.12. Kanji 1-227 (Lesson 6)
-			3.1.6.13. Kanji 1-247 (Lesson 7)
-			3.1.6.14. Kanji 1-267 (Lesson 8)
-			3.1.6.15. Kanji 1-287 (Lesson 9)
-			3.1.6.16. Kanji 1-307 (Lesson 10)
-			3.1.6.17. Kanji 1-307(Review)
-			3.1.6.18. Kanji 1-327 (Lesson 11)
-			3.1.6.19. Kanji 1-347 (Lesson 12)
-			3.1.6.20. Kanji 1-367 (Lesson 13)
-			3.1.6.21. Kanji 1-387 (Lesson 14)
-			3.1.6.22. Kanji 1-407 (Lesson 15)
-			3.1.6.23. Kanji 1-407(Review)
+			3.1.6.1. N5 Kanji 107
+				3.1.6.1.1. Kanji 1-20
+				3.1.6.1.2. Kanji 1-40
+				3.1.6.1.3. Kanji 1-60
+				3.1.6.1.4. Kanji 1-70
+				3.1.6.1.5. Kanji 1-80
+				3.1.6.1.6. Kanji 1-107
+			3.1.6.2. Ryuugakusei no tame no kanji no kyoukasho (Shoukyuu)
+				3.1.6.2.1. Lesson 1
+				3.1.6.2.2. Lesson 2
+				3.1.6.2.3. Lesson 3
+				3.1.6.2.4. Lesson 4
+				3.1.6.2.5. Lesson 5
+				3.1.6.2.6. Lesson 5 from 1 Review
+				3.1.6.2.7. Lesson 6
+				3.1.6.2.8. Lesson 7
+				3.1.6.2.9. Lesson 8
+				3.1.6.2.10. Lesson 9
+				3.1.6.2.11. Lesson 10
+				3.1.6.2.12. Lesson 10 from 1 Review
+				3.1.6.2.13. Lesson 11
+				3.1.6.2.14. Lesson 12
+				3.1.6.2.15. Lesson 13
+				3.1.6.2.16. Lesson 14
+				3.1.6.2.17. Lesson 15
+				3.1.6.2.18. Lesson 15 from 1 Review
 	3.2. Grammar
-		3.2.1. After Lesson 3
-		3.2.2. After Lesson 7
-		3.2.3. After Lesson 13
-		3.2.4. After Lesson 16
-		3.2.5. After Lesson 19
-		3.2.6. After Lesson 23
-		3.2.7. After Lesson 30
-		3.2.8. After Lesson 35
-		3.2.9. After Lesson 40
-		3.2.10. After Lesson 45
+		3.2.1. Minnna No Nihongo
+			3.2.1.1. After Lesson 3
+			3.2.1.2. After Lesson 7
+			3.2.1.3. After Lesson 13
+			3.2.1.4. After Lesson 16
+			3.2.1.5. After Lesson 19
+			3.2.1.6. After Lesson 23
+			3.2.1.7. After Lesson 30
+			3.2.1.8. After Lesson 35
+			3.2.1.9. After Lesson 40
+			3.2.1.10. After Lesson 45
 	3.3. Oral
-		3.3.1. After Lesson 7
-		3.3.2. After Lesson 13
-		3.3.3. After Lesson 19
-		3.3.4. After Lesson 35
-		3.3.5. After Lesson 40
-		3.3.6. After Lesson 45
+		3.3.1. Minnna No Nihongo
+			3.3.1.1. After Lesson 7
+			3.3.1.2. After Lesson 13
+			3.3.1.3. After Lesson 19
+			3.3.1.4. After Lesson 35
+			3.3.1.5. After Lesson 40
+			3.3.1.6. After Lesson 45
 	3.4. Final
 		3.4.1. Kanji&Vocabulary
 		3.4.2. Grammar
@@ -281,7 +388,7 @@ Formal Document
 2. Sponsor
 	2.1. Identification document
 		2.1.1. Passport
-		2.1.2. NID #Should be or
+		2.1.2. NID
 	2.2. Proof of income
 		2.2.1. Job Certificate
 		2.2.2. Trade License (to show business)
