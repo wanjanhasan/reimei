@@ -64,9 +64,73 @@ Each copy is any from:
 	1.2. 50 Numbers (10 using 万, 10 using 千, 10 using 百, 10 using 十 (Without 十, 一 to 十)
 	1.3.　Lesson 1 Classwork
 	1.4.　Jikoshoukai using Katakana
-	1.5. Lesson based Grammar Note
+	1.5. Renshuu
 		1.5.1. Minna no Nihongo
 			1.5.1.1 Lesson 1
+			1.5.1.2. Lesson 2
+			1.5.1.3. Lesson 3
+			1.5.1.4. Lesson 4
+			1.5.1.5. Lesson 5
+			1.5.1.6. Lesson 6
+			1.5.1.7. Lesson 7
+			1.5.1.8. Lesson 8
+			1.5.1.9. Lesson 9
+			1.5.1.10. Lesson 10
+			1.5.1.11. Lesson 11
+			1.5.1.12. Lesson 12
+			1.5.1.13. Lesson 13
+			1.5.1.14. Lesson 14
+			1.5.1.15. Lesson 15
+			1.5.1.16. Lesson 16
+			1.5.1.17. Lesson 17
+			1.5.1.18. Lesson 18
+			1.5.1.19. Lesson 19
+			1.5.1.20. Lesson 20
+			1.5.1.21. Lesson 21
+			1.5.1.22. Lesson 22
+			1.5.1.23. Lesson 23
+			1.5.1.24. Lesson 24
+			1.5.1.25. Lesson 25
+			1.5.1.26. Lesson 26
+			1.5.1.27. Lesson 27
+			1.5.1.28. Lesson 28
+			1.5.1.29. Lesson 29
+			1.5.1.30. Lesson 30
+			1.5.1.31. Lesson 31
+			1.5.1.32. Lesson 32
+			1.5.1.33. Lesson 33
+			1.5.1.34. Lesson 34
+			1.5.1.35. Lesson 35
+			1.5.1.36. Lesson 36
+			1.5.1.37. Lesson 37
+			1.5.1.38. Lesson 38
+			1.5.1.39. Lesson 39
+			1.5.1.40. Lesson 40
+			1.5.1.41. Lesson 41
+			1.5.1.42. Lesson 42
+			1.5.1.43. Lesson 43
+			1.5.1.44. Lesson 44
+			1.5.1.45. Lesson 45
+			1.5.1.46. Lesson 46
+			1.5.1.47. Lesson 47
+			1.5.1.48. Lesson 48
+			1.5.1.49. Lesson 49
+			1.5.1.50. Lesson 50
+	1.6. Grammar Note
+		1.6.1. Polite form
+			1.6.1.1. Present Positive and negative for Nouns (です)
+			1.6.1.2. Present and Past Positive and negative for Nouns (です)
+			1.6.1.3. Past Positive and negative for Nouns (です)
+			and past positives and negatives
+			1.6.1.2. Wanting in Japanese
+			て-form
+			ない-form
+			辞書-form
+			た-form
+		1.6.2. Plain form
+			1.6.2.1. Present and past positives and negatives
+		1.6.3. Forms interchange
+			1.6.1.1. Present and past positives and negatives
 			1.5.1.2. Lesson 2
 			1.5.1.3. Lesson 3
 			1.5.1.4. Lesson 4
@@ -176,56 +240,57 @@ Each copy is any from:
 		3.1.2. Number
 		3.1.3. Katakana
 		3.1.4. Vocabulary&Sentence
-			3.1.4.1. Lesson 1
-			3.1.4.2. Lesson 2
-			3.1.4.3. Lesson 3
-			3.1.4.4. Lesson 4
-			3.1.4.5. Lesson 5
-			3.1.4.6. Lesson 6
-			3.1.4.7. Lesson 7
-			3.1.4.8. Lesson 8
-			3.1.4.9. Lesson 9
-			3.1.4.10. Lesson 10
-			3.1.4.11. Lesson 11
-			3.1.4.12. Lesson 12
-			3.1.4.13. Lesson 13
-			3.1.4.14. Lesson 14
-			3.1.4.15. Lesson 15
-			3.1.4.16. Lesson 16
-			3.1.4.17. Lesson 17
-			3.1.4.18. Lesson 18
-			3.1.4.19. Lesson 19
-			3.1.4.20. Lesson 20
-			3.1.4.21. Lesson 21
-			3.1.4.22. Lesson 22
-			3.1.4.23. Lesson 23
-			3.1.4.24. Lesson 24
-			3.1.4.25. Lesson 25
-			3.1.4.26. Lesson 26
-			3.1.4.27. Lesson 27
-			3.1.4.28. Lesson 28
-			3.1.4.29. Lesson 29
-			3.1.4.30. Lesson 30
-			3.1.4.31. Lesson 31
-			3.1.4.32. Lesson 32
-			3.1.4.33. Lesson 33
-			3.1.4.34. Lesson 34
-			3.1.4.35. Lesson 35
-			3.1.4.36. Lesson 36
-			3.1.4.37. Lesson 37
-			3.1.4.38. Lesson 38
-			3.1.4.39. Lesson 39
-			3.1.4.40. Lesson 40
-			3.1.4.41. Lesson 41
-			3.1.4.42. Lesson 42
-			3.1.4.43. Lesson 43
-			3.1.4.44. Lesson 44
-			3.1.4.45. Lesson 45
-			3.1.4.46. Lesson 46
-			3.1.4.47. Lesson 47
-			3.1.4.48. Lesson 48
-			3.1.4.49. Lesson 49
-			3.1.4.50. Lesson 50
+			3.1.4.1. Minna no Nihongo
+				3.1.4.1.1. Lesson 1
+				3.1.4.1.2. Lesson 2
+				3.1.4.1.3. Lesson 3
+				3.1.4.1.4. Lesson 4
+				3.1.4.1.5. Lesson 5
+				3.1.4.1.6. Lesson 6
+				3.1.4.1.7. Lesson 7
+				3.1.4.1.8. Lesson 8
+				3.1.4.1.9. Lesson 9
+				3.1.4.1.10. Lesson 10
+				3.1.4.1.11. Lesson 11
+				3.1.4.1.12. Lesson 12
+				3.1.4.1.13. Lesson 13
+				3.1.4.1.14. Lesson 14
+				3.1.4.1.15. Lesson 15
+				3.1.4.1.16. Lesson 16
+				3.1.4.1.17. Lesson 17
+				3.1.4.1.18. Lesson 18
+				3.1.4.1.19. Lesson 19
+				3.1.4.1.20. Lesson 20
+				3.1.4.1.21. Lesson 21
+				3.1.4.1.22. Lesson 22
+				3.1.4.1.23. Lesson 23
+				3.1.4.1.24. Lesson 24
+				3.1.4.1.25. Lesson 25
+				3.1.4.1.26. Lesson 26
+				3.1.4.1.27. Lesson 27
+				3.1.4.1.28. Lesson 28
+				3.1.4.1.29. Lesson 29
+				3.1.4.1.30. Lesson 30
+				3.1.4.1.31. Lesson 31
+				3.1.4.1.32. Lesson 32
+				3.1.4.1.33. Lesson 33
+				3.1.4.1.34. Lesson 34
+				3.1.4.1.35. Lesson 35
+				3.1.4.1.36. Lesson 36
+				3.1.4.1.37. Lesson 37
+				3.1.4.1.38. Lesson 38
+				3.1.4.1.39. Lesson 39
+				3.1.4.1.40. Lesson 40
+				3.1.4.1.41. Lesson 41
+				3.1.4.1.42. Lesson 42
+				3.1.4.1.43. Lesson 43
+				3.1.4.1.44. Lesson 44
+				3.1.4.1.45. Lesson 45
+				3.1.4.1.46. Lesson 46
+				3.1.4.1.47. Lesson 47
+				3.1.4.1.48. Lesson 48
+				3.1.4.1.49. Lesson 49
+				3.1.4.1.50. Lesson 50
 		3.1.5. Sentence
 			3.1.5.1. Lesson 1
 			3.1.5.2. Lesson 2
